@@ -1,6 +1,7 @@
 # R Programming
 # Assignment 2
 # Sander van der Horst
+# 2014-12-17
 
 
 makeCacheMatrix <- function(x = numeric()) {      # input x will be a vector
